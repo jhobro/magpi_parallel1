@@ -14,7 +14,8 @@ collage is made from them.
 
 The make utility will automatically distribute the work required over
 the four available cores.  Place your original images inside the
-fullsize directory and then type
+fullsize directory (any image file format recognised by ImageMagick
+can be used) and then type
 
 make -j4
 
