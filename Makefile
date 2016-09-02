@@ -3,7 +3,7 @@ SIZE = 128x128
 
 # The list of original photos to use (fullsize/* refers to all files
 # in the directory fullsize)
-ORIGINALS := $(wildcard fullsize/*)
+ORIGINALS = $(wildcard fullsize/*)
 
 # Use the list of originals to build a list of thumbnails (this takes
 # the list of originals and changes the prefix on each file from
