@@ -1,5 +1,5 @@
 # magpi_parallel1
-Files for MagPi 50 article *Introduction to parallel programming*
+Files for MagPi 52 article *Introduction to parallel programming*
 
 This example shows how the `make` utility can be used to distribute work
 over multiple cores for certain tasks.
